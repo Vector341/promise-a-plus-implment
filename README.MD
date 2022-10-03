@@ -4,3 +4,4 @@ Promise A+规范：https://promisesaplus.com/
 Promise A+ 测试工具: https://github.com/promises-aplus/promises-tests
 
 MyPromise实现了最简单的Promise, MyPromise2 实现了链式调用.
+MyPromise3 参考实现: https://mp.weixin.qq.com/s/qdJ0Xd8zTgtetFdlJL3P1g
